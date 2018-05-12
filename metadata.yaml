@@ -1,0 +1,37 @@
+_repo: Mooswa---amp--Others-of-the-Boundaries_42226
+_version: 0.1.0
+alternative_title: Mooswa and others of the boundaries
+contributor:
+  illustrator:
+    agent_name: Heming, Arthur
+    alias: Heming, Arthur Henry Howard
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '8067'
+    url: http://www.gutenberg.org/2009/agents/8067
+covers:
+- cover_type: archival
+  image_path: 42226-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Fraser, William Alexander
+    alias: Fraser, W. A. (William Alexander)
+    birthdate: 1859
+    deathdate: 1933
+    gutenberg_agent_id: '2970'
+    url: http://www.gutenberg.org/2009/agents/2970
+description: ''
+gutenberg_issued: '2013-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+title: Mooswa & Others of the Boundaries
+url: http://www.gutenberg.org/ebooks/42226
